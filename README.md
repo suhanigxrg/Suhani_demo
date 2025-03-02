@@ -1,2 +1,3 @@
 # Suhani_demo
-this is my first git repositroy
+This is my first git repository
+Author- SUHANI GARG
